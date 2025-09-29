@@ -5,6 +5,8 @@ description: This resource provides information about the topics such as filtrat
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/a2f55fd05608ed9a86152fb8d3f9da0a_lecture_9.pdf
 file_size: 160875
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

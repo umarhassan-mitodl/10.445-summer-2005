@@ -4,6 +4,8 @@ description: This resource is a handout which describes bioprocess design and si
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/0dca01807bd7b4a7b696f7b15bcab434_bioproces_design.pdf
 file_size: 75810
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource is problem set 3 and contains 4 problem sets on chrom
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/b48c53aa54593bff6844bf0ea40ccaa5_ps_3.pdf
 file_size: 140490
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

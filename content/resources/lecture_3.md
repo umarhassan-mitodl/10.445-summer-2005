@@ -7,6 +7,8 @@ description: This resource provides information about the topics such as methods
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/9f4a99c6be0c5cf3e21995ca0e2c5180_lecture_3.pdf
 file_size: 709789
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

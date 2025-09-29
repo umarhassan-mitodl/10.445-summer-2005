@@ -8,6 +8,8 @@ description: This resource provides information about the topics such as membran
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/45a0af3544f9066f4b4abe64b1beeabd_lecture_7_cooney.pdf
 file_size: 321003
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

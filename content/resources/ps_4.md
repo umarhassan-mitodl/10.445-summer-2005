@@ -5,6 +5,8 @@ description: This resource is problem set 4 and contains 4 problem sets on strep
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/3fb4a0d39058345d8cbfc8262a1a48a7_ps_4.pdf
 file_size: 139145
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

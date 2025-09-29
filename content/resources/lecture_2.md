@@ -9,6 +9,8 @@ description: This resource provides information about the topics such as challen
 file: /courses/10-445-separation-processes-for-biochemical-products-summer-2005/c81208bbe8bc4e595ae13df93babc8e4_lecture_2.pdf
 file_size: 335352
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
